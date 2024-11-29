@@ -3,6 +3,8 @@
 I'm an Electrical Engineering student specializing in Computer Engineering.
 Passionate about Machine Learning and Ai
 
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 ## 🛠 Technologies and Tools I Use
 
 - **Programming Languages**: Python, MATLAB, C++
