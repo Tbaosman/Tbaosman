@@ -1,19 +1,20 @@
 # Hi there, I'm Mohamed Osman 👋
 
-I'm an Electrical Engineering student specializing in Computer Engineering.
-Passionate about Machine Learning and Ai
+Welcome to my personal GitHub repository! This space serves as a collection of my projects, and personal coding experiments.
+You'll find projects related to my studies in machine learning, and artificial intelligence.  
+I'm an Electrical Engineering student specializing in Control Engineering.
 
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ## 🛠 Technologies and Tools I Use
 
-- **Programming Languages**: Python, MATLAB, C++
+- **Programming Languages**: Python, MATLAB, C
 - **Machine Learning**: Scikit-learn, TensorFlow
 - **Version Control**: Git, GitHub
 
 ## 🌱 What I'm Working On
 
-- Will come soon,lol
+- Will come soon!
 
 ## 📊 GitHub Stats
 
