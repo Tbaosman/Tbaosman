@@ -1,8 +1,9 @@
 # Hi there, I'm Mohamed Osman 👋
 
-Welcome to my personal GitHub repository! This space serves as a collection of my projects,  
-and personal coding experiments.  
-You'll find projects related to my studies in machine learning, and artificial intelligence.  
+Welcome to my personal GitHub repository! This space serves as a collection   
+of my projects, and personal coding experiments.  
+You'll find projects related to my studies in machine learning,  
+and artificial intelligence.  
 
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
