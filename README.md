@@ -23,7 +23,6 @@ and artificial intelligence.
 
 ## 🔗 Connect with Me
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-saeed-51b588117)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tbaosm)
 - [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:tba.osman.musa@gmail.com)
 
-![Coding](https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif)
