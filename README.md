@@ -25,4 +25,3 @@ and artificial intelligence.
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tbaosm)
 - [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:tba.osman.musa@gmail.com)
-
