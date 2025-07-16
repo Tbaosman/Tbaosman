@@ -13,7 +13,7 @@ and artificial intelligence.
 - **Machine Learning**: Scikit-learn, TensorFlow
 - **Version Control**: Git, GitHub
 
-## 🌱 What I'm Working On
+## What I'm Working On
 
 - Will come soon!
 
